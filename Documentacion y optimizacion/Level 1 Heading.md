@@ -123,6 +123,10 @@ This are some mathematical formulas:
 1. $$E=mc^2$$
 2. $$a = b + c$$
 
+## ==GitHub Link==
+
+Here it goes a link to a readme edited wiht the knowledge of markdown adquired: https://github.com/dghugo05/Programacion/blob/main/programcaion_java/Tema7/Ejercicio9/README.md
+
 
 
 
